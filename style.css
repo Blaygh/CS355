@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0px;
@@ -126,3 +127,133 @@ ul li{
     border:0pt, greenyellow;
 }
 
+=======
+body {
+    margin: 0;
+    padding: 0px;
+    background-image: url('redbluepill.png');
+    background-size: cover;
+    font-family: sans-serif;
+    color:rgb(114, 114, 237) ;
+}
+
+#header{
+    width: 85%;
+    height: 70px;
+}
+#p2main{
+    margin: auto;
+}
+
+h1{
+    font-size: 200%;
+    font-style: italic;
+    color:rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+
+ul{
+    float: right;
+    margin-top: -20px;
+}
+
+ul li{
+    display: inline-block;
+    margin:0px 20px;
+    text-transform: uppercase;
+    color:beige;
+    text-decoration: none;
+}
+
+
+.c1 {
+    background-color: aquamarine;
+    color:black
+}
+
+.c2 {
+    background-color: rgb(255, 13, 13);
+    color: black;
+    margin: 10px
+}
+
+.main {
+        margin: auto;
+        width: 70%;
+        margin-top: 80px;
+        text-align: center;
+        line-height: 1.2em;
+       
+}
+
+.btn{
+    margin-top: 50px;
+    margin-left: 100px ;
+    width: 100px;
+    justify-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: blueviolet;
+    border-color: green;
+    border: none;
+}
+
+#indexbtn1{
+    margin-right: 70px;
+    background-color: red;
+    color: beige
+    
+}
+
+
+#indexbtn2{
+    margin-right: 70px;
+    background-color: blue;
+    color: beige
+}
+
+#p1btn1{
+    margin-right: 70px;
+    background-color: beige;
+    
+}
+
+
+#p1btn2{
+    margin-right: 70px;
+    background-color: yellow;
+}
+
+
+#p2btn1{
+    margin-right: 70px;
+    background-color: greenyellow;
+    
+}
+
+
+#p2btn2{
+    margin-right: 70px;
+    background-color: whitesmoke;
+}
+
+
+.altDivClass{
+    font: icon;
+    font-style: oblique;
+    color: rgb(215, 85, 34);
+    margin: 20px;
+    padding: 10px;
+}
+
+.b{
+    background-color: lemonchiffon;
+    color: black;
+    margin: 10px;
+    border:0pt, greenyellow;
+}
+
+>>>>>>> 5d7462d42b0b7c869f742c7e22ca63832660f463
